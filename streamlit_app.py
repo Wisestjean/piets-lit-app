@@ -36,7 +36,6 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-st.title("Piets Greetings")
 with st.sidebar:
     st.header("HOME")
     st.header("LOGIN")
